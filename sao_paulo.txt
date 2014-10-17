@@ -1,0 +1,19 @@
+Unique Feature Identifier (UFI):	-671824
+Unique Name Identifier (UNI):	-944129
+Gazetteer Name:	São Paulo
+Language Name (Code):	Portuguese (por)
+Transliteration Code:	
+Dialect Name (Code):	
+Script Name (Code):	
+Region Font (Code):	Americas/Western Europe (1)
+Name Rank:	1
+Linked Name:	
+JOG Reference:	SF23-13
+Feature Class (Code):	Populated Places (P)
+Feature Modify Date:	2013-02-21
+Name Modify Date:	Prior to 1993
+Note:	
+
+-23.573252,-46.641681
+
+
